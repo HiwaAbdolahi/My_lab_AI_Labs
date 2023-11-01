@@ -1,4 +1,8 @@
 <h1>Hiwa Abdolahi</h1>
+
+<a href="https://github.com/HiwaAbdolahi/My_lab_AI_Labs/blob/main/Oblig2/Oblig2_Linear_Regresjon.ipynb">oblig2_Linear_Regresjon</a>
+<a href="https://github.com/HiwaAbdolahi/My_lab_AI_Labs/blob/main/Oblig2/Oblig2_RandomForest-regresjon.ipynb">RandomForest-regresjon</a>
+
     
 <p>At the start of the assignment, I began by exploring linear regression to solve my problem. However, I eventually realized that this might not be the most appropriate approach for the task. My task was to predict a numerical value based on a specific date, and linear regression is better suited for predicting continuous numerical values.
 
